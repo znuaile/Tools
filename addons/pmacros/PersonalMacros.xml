@@ -25,7 +25,6 @@ xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
         <Scripts> 
             <OnLoad> 
                 PMF_Msg("Personal Macro functions version 1.0.0 loaded");
-                PMF_Version()
             </OnLoad> 
             <OnEvent> 
             </OnEvent>
